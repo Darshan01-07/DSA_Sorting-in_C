@@ -49,28 +49,28 @@ To get started with these sorting algorithms, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/yourusername/dsa-sorting-c.git
+   git clone https://github.com/Darshan01-07/DSA_Sorting-in_C
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd dsa-sorting-c
+   cd DSA_Sorting-in_C
    ```
 
 3. Compile the C code for the desired sorting algorithm using a C compiler (e.g., GCC):
 
    ```shell
-   gcc advanced_bubble_sort.c -o advanced_bubble_sort
+   gcc Advance bubble sort.c -o Advance bubble sort
    ```
 
 4. Execute the compiled program:
 
    ```shell
-   ./advanced_bubble_sort
+   ./Advance bubble sort
    ```
 
-   Replace `advanced_bubble_sort` with the name of the sorting algorithm you want to run.
+   Replace `Advance bubble sort` with the name of the sorting algorithm you want to run.
 
 ## How to Use
 
@@ -88,6 +88,4 @@ If you'd like to contribute to this project by adding more sorting algorithms or
 
 Your contributions are highly appreciated!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute the code according to the terms of the license.
