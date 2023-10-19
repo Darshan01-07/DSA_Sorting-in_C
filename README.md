@@ -36,7 +36,7 @@ Quick Sort is a widely used and highly efficient sorting algorithm that uses a d
 
 ### Selection Sort
 
-Selection Sort is a simple and easy-to-understand sorting algorithm. It repeatedly selects the minimum (or maximum) element from the unsorted portion of the array and moves it to the sorted portion.
+Selection Sort is a simple and easy-to-understand sorting algorithm. It repeatedly selects the minimum (or maximum) element from the unsorted portion of the array and moves it to the sorted portion. Isnt this easy
 
 ### Traditional Bubble Sort
 
